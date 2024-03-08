@@ -65,7 +65,7 @@ Além dos dois conceitos centrais desse paradigma, apresentados anteriormente, t
 - Abstração;
 - Encapsulamento.
 
-![image](https://github.com/renangfs/JavaPOO/assets/61218420/68c7ecb3-f13f-4391-9989-eff573f25b27)
+![image](https://github.com/renangfs/Java_POO/assets/61218420/67f16745-eeaf-484d-a7f1-1fb08d0412d5)
 
 
 ### Polimorfismo
