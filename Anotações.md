@@ -1,4 +1,5 @@
-![image](https://github.com/renangfs/Alura_JavaPOO/assets/61218420/f356656c-672c-4386-8786-64e2fd37d3b1)
+![image](https://github.com/renangfs/Java_POO/assets/61218420/9fce265e-ed67-482f-9679-452c7c45fc3b)
+
 
 ### Classes e Objetos
 Na Orientação a Objetos, temos dois conceitos essenciais, que são:
@@ -127,4 +128,9 @@ Conceitualmente, o encapsulamento é algo bem simples. A ideia aqui é conseguir
         Exemplo: if (condicao) {.
 
 - Use comentários para documentar seu código, explicando o que ele faz e por que ele faz isso. Comentários devem ser claros e concisos.
+<hr>
+O casting é utilizado para permitir que tipos de dados incompatíveis possam ser utilizados em uma mesma operação ou expressão. Por exemplo, se um método espera um parâmetro do tipo int e o valor que se deseja passar é do tipo double, é necessário fazer um casting para converter o valor em int.
+
+![image](https://github.com/renangfs/Java_POO/assets/61218420/e0503efe-bd26-4d00-b773-9677a18caf47)
+
 
