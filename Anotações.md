@@ -131,7 +131,7 @@ Conceitualmente, o encapsulamento é algo bem simples. A ideia aqui é conseguir
 <hr>
 O casting é utilizado para permitir que tipos de dados incompatíveis possam ser utilizados em uma mesma operação ou expressão. Por exemplo, se um método espera um parâmetro do tipo int e o valor que se deseja passar é do tipo double, é necessário fazer um casting para converter o valor em int.
 
-![image](https://github.com/renangfs/Java_POO/assets/61218420/e0503efe-bd26-4d00-b773-9677a18caf47)
+![image](https://github.com/renangfs/Java_POO/assets/61218420/5ed64d91-d569-4083-bf7c-c4ceb05f5331)
 
 switch case é uma estrutura de controle de fluxo que permite executar diferentes ações com base no valor de uma expressão. É uma forma mais simplificada e legível de escrever vários blocos if/else encadeados.
         
