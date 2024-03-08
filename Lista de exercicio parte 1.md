@@ -1,4 +1,4 @@
-<h1 align = "center">Lista de exercícios</h1>
+<h1 align = "center">Lista de exercícios Parte 1</h1>
 <hr><h3 align = "center">Exercicio 1</h3>
 
 Crie um programa que realize a média de duas notas decimais e exiba o resultado.
