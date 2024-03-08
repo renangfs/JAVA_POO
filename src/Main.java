@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno();
 
-        aluno1.setNome("Renann");
+        aluno1.setNome("Renan");
         aluno1.setMatricula("12345");
         aluno1.setIdade(20);
 
