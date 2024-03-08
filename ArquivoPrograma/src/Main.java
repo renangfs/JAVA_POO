@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         //Criando um objeto aluno
         Aluno aluno1 = new Aluno();
-        // TESTE PUSH
+        
         aluno1.nome = "Renan";
 
         System.out.println("Digite sua matrícula: ");
